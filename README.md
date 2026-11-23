@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 语言 | 难度 | 关键词 | 题解 |
 | --- | --- | --- | --- | --- | --- |
+| 19 | 删除链表的倒数第 N 个结点 | Python | 中等 | 链表、两次遍历、快慢指针 | [查看题解](problems/python/0019-remove-nth-node-from-end-of-list.md) |
 | 142 | 环形链表 II | Python | 中等 | 链表、集合、快慢指针 | [查看题解](problems/python/0142-linked-list-cycle-ii.md) |
 
 ## 目录结构
